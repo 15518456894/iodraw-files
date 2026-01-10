@@ -240,12 +240,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zdm2hYUiuHnSGpPF3rg8-1" target="zdm2hYUiuHnSGpPF3rg8-4" edge="1">
+        <mxCell id="zdm2hYUiuHnSGpPF3rg8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zdm2hYUiuHnSGpPF3rg8-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="585" y="890" />
               <mxPoint x="644" y="890" />
             </Array>
+            <mxPoint x="644" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 21px&quot;&gt;多维旅游流网络时空结构特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
@@ -269,17 +270,20 @@
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 21px&quot;&gt;线特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="470.43" y="910" width="108" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zdm2hYUiuHnSGpPF3rg8-4" target="zdm2hYUiuHnSGpPF3rg8-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zdm2hYUiuHnSGpPF3rg8-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zdm2hYUiuHnSGpPF3rg8-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="943" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zdm2hYUiuHnSGpPF3rg8-4" target="zdm2hYUiuHnSGpPF3rg8-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zdm2hYUiuHnSGpPF3rg8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zdm2hYUiuHnSGpPF3rg8-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="943" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zdm2hYUiuHnSGpPF3rg8-4" target="zdm2hYUiuHnSGpPF3rg8-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 21px&quot;&gt;网特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="590" y="910" width="108" height="33" as="geometry" />
+        <mxCell id="zdm2hYUiuHnSGpPF3rg8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zdm2hYUiuHnSGpPF3rg8-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="943" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zdm2hYUiuHnSGpPF3rg8-5" target="zdm2hYUiuHnSGpPF3rg8-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
