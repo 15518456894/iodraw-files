@@ -490,6 +490,9 @@
         <mxCell id="151OS4Jc1RL9kqM6uRMv-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;空间结构理论&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="768.81" y="443" width="40" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="151OS4Jc1RL9kqM6uRMv-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1630" width="530" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
