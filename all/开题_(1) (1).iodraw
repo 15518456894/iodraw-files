@@ -220,7 +220,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="585" y="890" />
-              <mxPoint x="404" y="890" />
+              <mxPoint x="420" y="890" />
+              <mxPoint x="420" y="910" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -228,7 +229,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="585" y="890" />
-              <mxPoint x="766" y="890" />
+              <mxPoint x="750" y="890" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -271,7 +272,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 21px&quot;&gt;面特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="712" y="910" width="108" height="33" as="geometry" />
+          <mxGeometry x="695.81" y="910" width="108" height="33" as="geometry" />
         </mxCell>
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 21px&quot;&gt;中心度特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="351.07" y="980" width="35.06" height="170" as="geometry" />
