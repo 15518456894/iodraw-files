@@ -352,9 +352,6 @@
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-32" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px&quot; color=&quot;#000066&quot;&gt;数理统计分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#0000CC;" parent="1" vertex="1">
           <mxGeometry x="890" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-33" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;QAP分析&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#FFD966;" parent="1" vertex="1">
-          <mxGeometry x="890" y="1273.5" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-34" value="&lt;font style=&quot;font-size: 21px&quot; face=&quot;宋体&quot;&gt;优化建议&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="687.1999999999999" y="1557" width="113.75" height="40" as="geometry" />
         </mxCell>
@@ -406,9 +403,9 @@
             <mxPoint x="630" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-95" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zdm2hYUiuHnSGpPF3rg8-33" target="zdm2hYUiuHnSGpPF3rg8-32" edge="1">
+        <mxCell id="zdm2hYUiuHnSGpPF3rg8-95" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zdm2hYUiuHnSGpPF3rg8-119" target="zdm2hYUiuHnSGpPF3rg8-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="1270" as="sourcePoint" />
+            <mxPoint x="950" y="1273.5" as="sourcePoint" />
             <mxPoint x="630" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
