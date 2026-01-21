@@ -31,7 +31,7 @@
             <mxPoint x="460" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3D4d5pabxMx6JpqbGKzG-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;相关&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-55;" vertex="1" connectable="0" parent="3D4d5pabxMx6JpqbGKzG-5">
+        <mxCell id="3D4d5pabxMx6JpqbGKzG-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;相关&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-55;" vertex="1" connectable="0" parent="3D4d5pabxMx6JpqbGKzG-5">
           <mxGeometry x="-0.1" relative="1" as="geometry">
             <mxPoint x="-26" y="-3" as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
             <mxPoint x="450" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3D4d5pabxMx6JpqbGKzG-14" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;弱相关&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3D4d5pabxMx6JpqbGKzG-7">
+        <mxCell id="3D4d5pabxMx6JpqbGKzG-14" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;弱相关&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3D4d5pabxMx6JpqbGKzG-7">
           <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
             <mxPoint x="4" y="19" as="offset" />
           </mxGeometry>
