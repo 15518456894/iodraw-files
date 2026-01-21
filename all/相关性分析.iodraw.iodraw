@@ -44,7 +44,7 @@
         </mxCell>
         <mxCell id="3D4d5pabxMx6JpqbGKzG-14" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;弱相关&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3D4d5pabxMx6JpqbGKzG-7">
           <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
-            <mxPoint x="4" y="19" as="offset" />
+            <mxPoint x="5" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
