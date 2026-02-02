@@ -137,6 +137,9 @@
         <mxCell id="3WRwizKX004HXY0em1fv-14" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游消费能力&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-80" y="90" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3WRwizKX004HXY0em1fv-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-15" target="3WRwizKX004HXY0em1fv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-15" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游信息化水平&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-80" y="225" width="160" height="60" as="geometry" />
         </mxCell>
@@ -343,7 +346,7 @@
             <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-78" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;endWidth=41;endSize=8.52;width=31;exitX=1;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-20">
+        <mxCell id="3WRwizKX004HXY0em1fv-78" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;endWidth=41;endSize=8.52;width=31;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="260" as="sourcePoint" />
             <mxPoint x="630" y="260" as="targetPoint" />
