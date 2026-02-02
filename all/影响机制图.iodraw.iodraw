@@ -317,7 +317,7 @@
             <mxPoint x="250" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;转化瓶颈&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-8">
+        <mxCell id="3WRwizKX004HXY0em1fv-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;薄弱链接&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-8">
           <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
             <mxPoint x="5" y="19" as="offset" />
           </mxGeometry>
