@@ -288,7 +288,7 @@
             <mxPoint x="820" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-67" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-67" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="-80" as="sourcePoint" />
             <mxPoint x="820" y="-80" as="targetPoint" />
@@ -297,7 +297,7 @@
         <mxCell id="3WRwizKX004HXY0em1fv-68" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;强影响&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="-127" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-69" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;强影响&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-69" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;中影响&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="-90" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
