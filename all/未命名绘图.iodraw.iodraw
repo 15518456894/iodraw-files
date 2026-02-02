@@ -54,10 +54,10 @@
           <mxGeometry x="-160" y="135" width="70" height="190" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-14" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游消费能力&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="130" width="160" height="60" as="geometry" />
+          <mxGeometry x="-40" y="35" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-15" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游信息化水平&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="200" width="160" height="60" as="geometry" />
+          <mxGeometry x="-40" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-16" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;交通便捷程度&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="270" width="160" height="60" as="geometry" />
