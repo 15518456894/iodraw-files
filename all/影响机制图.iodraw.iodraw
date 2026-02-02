@@ -321,10 +321,10 @@
         <mxCell id="3WRwizKX004HXY0em1fv-68" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;强影响&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="-127" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-69" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;中影响&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-69" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;中影响&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="-90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-70" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;弱影响&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-70" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;弱影响&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="-50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-71" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=-0.025;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="3WRwizKX004HXY0em1fv-70">
