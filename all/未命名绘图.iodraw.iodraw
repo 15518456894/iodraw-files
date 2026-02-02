@@ -81,7 +81,7 @@
           <mxGeometry x="870" y="285" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-23" value="&lt;font face=&quot;宋体&quot;&gt;约束力&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;align=center;flipH=0;rotation=90;horizontal=0;fontSize=22;flipV=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-250" width="70" height="190" as="geometry" />
+          <mxGeometry x="365" y="-240" width="70" height="190" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-24" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;地理距离&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="-70" width="160" height="60" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry x="500" y="-70" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="432" y="-228" width="54" height="260" as="geometry" />
+          <mxGeometry x="382.5" y="-282" width="35" height="392" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
