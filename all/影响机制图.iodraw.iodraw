@@ -306,7 +306,7 @@
             <mxPoint x="260" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;相关&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-55;labelBackgroundColor=default;" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-6">
+        <mxCell id="3WRwizKX004HXY0em1fv-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;次级引导链&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-55;labelBackgroundColor=default;" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-6">
           <mxGeometry x="-0.1" relative="1" as="geometry">
             <mxPoint x="-26" y="7" as="offset" />
           </mxGeometry>
