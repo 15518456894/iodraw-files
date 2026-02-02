@@ -388,7 +388,7 @@
         <mxCell id="3WRwizKX004HXY0em1fv-93" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;外层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-94" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;客源地&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;rb_kqf41rIc0UHwNhwff&quot; style=&quot;font-size: 20px;&quot;&gt;溢出效应&lt;/font&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-94" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;客源地&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;溢出效应&lt;/font&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-15" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
