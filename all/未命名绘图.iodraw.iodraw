@@ -75,7 +75,7 @@
           <mxGeometry x="700" y="225" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-21" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游接待能力&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="400" width="160" height="60" as="geometry" />
+          <mxGeometry x="700" y="360" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="285" width="30" height="140" as="geometry" />
@@ -92,7 +92,7 @@
         <mxCell id="3WRwizKX004HXY0em1fv-26" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;心理距离&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="-70" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="860" y="-40" width="30" height="140" as="geometry" />
         </mxCell>
       </root>
