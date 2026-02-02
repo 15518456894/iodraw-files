@@ -192,6 +192,9 @@
         <mxCell id="3WRwizKX004HXY0em1fv-26" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;心理距离&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="-70" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3WRwizKX004HXY0em1fv-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-27" target="3WRwizKX004HXY0em1fv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="376.88" y="-282.62" width="40" height="385.75" as="geometry" />
         </mxCell>
@@ -348,7 +351,7 @@
             <mxPoint x="630" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;endWidth=41;endSize=8.52;width=31;" edge="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;endWidth=41;endSize=8.52;width=31;" edge="1" parent="1" target="3WRwizKX004HXY0em1fv-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="10" as="sourcePoint" />
             <mxPoint x="154" y="265" as="targetPoint" />
