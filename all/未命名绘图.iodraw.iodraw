@@ -134,10 +134,10 @@
         <mxCell id="3WRwizKX004HXY0em1fv-12" value="&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;驱&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;动&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;宋体&quot;&gt;力&lt;/font&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;align=center;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-190" y="160" width="70" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-14" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游消费能力&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-14" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游消费能力&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-80" y="90" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-15" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游信息化水平&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-15" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游信息化水平&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-80" y="225" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-16" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;交通便捷程度&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
