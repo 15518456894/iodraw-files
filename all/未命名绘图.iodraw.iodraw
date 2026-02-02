@@ -270,6 +270,9 @@
         <mxCell id="3WRwizKX004HXY0em1fv-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-10" target="3WRwizKX004HXY0em1fv-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3WRwizKX004HXY0em1fv-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-10" target="3WRwizKX004HXY0em1fv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-10" value="" style="ellipse;whiteSpace=wrap;html=1;opacity=60;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="143.75" y="35" width="512.5" height="440" as="geometry" />
         </mxCell>
@@ -365,7 +368,7 @@
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-86" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;拉力&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-78">
           <mxGeometry x="-0.325" y="11" relative="1" as="geometry">
-            <mxPoint x="-3" y="-11" as="offset" />
+            <mxPoint x="-10" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;endWidth=41;endSize=8.52;width=31;" edge="1" parent="1" target="3WRwizKX004HXY0em1fv-10">
