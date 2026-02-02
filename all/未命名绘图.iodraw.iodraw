@@ -117,7 +117,7 @@
             <mxPoint x="-120" y="-140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-170" y="160" />
-              <mxPoint x="-170" y="-153" />
+              <mxPoint x="-170" y="-170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -211,11 +211,6 @@
               <mxPoint x="950" y="-150" />
               <mxPoint x="520" y="-150" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-82" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-33">
-          <mxGeometry x="0.9295" y="-4" relative="1" as="geometry">
-            <mxPoint x="2" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-24" target="3WRwizKX004HXY0em1fv-1">
