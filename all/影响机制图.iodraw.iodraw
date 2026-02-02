@@ -388,6 +388,9 @@
         <mxCell id="3WRwizKX004HXY0em1fv-93" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;外层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="480" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3WRwizKX004HXY0em1fv-94" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
