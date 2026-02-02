@@ -74,7 +74,7 @@
         <mxCell id="3WRwizKX004HXY0em1fv-20" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游资源禀赋&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="205" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-21" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;交通便捷程度&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-21" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;旅游接待能力&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="275" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;" vertex="1" parent="1">
