@@ -385,8 +385,8 @@
         <mxCell id="3WRwizKX004HXY0em1fv-92" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;内层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="365" y="255" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-93" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;内层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="366.88" y="475" width="60" height="30" as="geometry" />
+        <mxCell id="3WRwizKX004HXY0em1fv-93" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;外层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
