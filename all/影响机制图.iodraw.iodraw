@@ -383,7 +383,7 @@
           <mxGeometry x="120" y="-257.38" width="560" height="187.26" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;" vertex="1" parent="3WRwizKX004HXY0em1fv-98">
-          <mxGeometry y="77.25999999999999" width="560" height="110" as="geometry" />
+          <mxGeometry y="127.38" width="560" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-23" value="&lt;font face=&quot;宋体&quot;&gt;约束力&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;align=center;flipH=0;rotation=90;horizontal=0;fontSize=22;flipV=0;direction=east;strokeWidth=2;" vertex="1" parent="3WRwizKX004HXY0em1fv-98">
           <mxGeometry x="245" y="-60" width="70" height="190" as="geometry" />
