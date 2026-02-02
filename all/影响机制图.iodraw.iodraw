@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3WRwizKX004HXY0em1fv-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="-127" width="535" height="107" as="geometry" />
+          <mxGeometry x="127.5" y="-123.5" width="542.5" height="107" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-74" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="710" y="70" width="180" height="380" as="geometry" />
@@ -380,6 +380,11 @@
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-26" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;心理距离&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="496.88" y="-90" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3WRwizKX004HXY0em1fv-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397" y="-10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-25" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;时间距离&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="316.88" y="-90" width="160" height="60" as="geometry" />
