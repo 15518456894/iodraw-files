@@ -138,9 +138,9 @@
         <mxCell id="3WRwizKX004HXY0em1fv-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="120" width="40" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=190;exitPerimeter=0;entryX=0.4;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-18" target="3WRwizKX004HXY0em1fv-12">
+        <mxCell id="3WRwizKX004HXY0em1fv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=190;exitPerimeter=0;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-120" y="520" as="targetPoint" />
+            <mxPoint x="-230" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="960" y="350" />
               <mxPoint x="960" y="530" />
