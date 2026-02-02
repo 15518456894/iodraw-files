@@ -279,7 +279,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;核心传导轴&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=55;" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-4">
+        <mxCell id="3WRwizKX004HXY0em1fv-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;核心传导轴&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=55;" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-4">
           <mxGeometry x="0.0386" relative="1" as="geometry">
             <mxPoint x="25" y="-7" as="offset" />
           </mxGeometry>
@@ -301,7 +301,7 @@
             <mxPoint x="250" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;薄弱链接&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-8">
+        <mxCell id="3WRwizKX004HXY0em1fv-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;薄弱链接&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-8">
           <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
             <mxPoint x="5" y="19" as="offset" />
           </mxGeometry>
@@ -366,7 +366,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-92" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;内层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-92" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;内层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-93" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;外层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
