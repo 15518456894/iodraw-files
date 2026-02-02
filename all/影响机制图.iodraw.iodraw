@@ -290,7 +290,7 @@
             <mxPoint x="260" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;次级引导链&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-55;labelBackgroundColor=default;" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-6">
+        <mxCell id="3WRwizKX004HXY0em1fv-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;次级引导链&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-55;labelBackgroundColor=default;" vertex="1" connectable="0" parent="3WRwizKX004HXY0em1fv-6">
           <mxGeometry x="-0.1" relative="1" as="geometry">
             <mxPoint x="-26" y="7" as="offset" />
           </mxGeometry>
@@ -387,7 +387,7 @@
         <mxCell id="3WRwizKX004HXY0em1fv-24" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;地理距离&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="136.88" y="-90" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-97" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;流动过程&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;衰减效应&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="3WRwizKX004HXY0em1fv-97" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;流动过程&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;衰减效应&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-100" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3WRwizKX004HXY0em1fv-103" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#cce5ff;strokeColor=#36393d;endWidth=19;endSize=6;width=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-95">
