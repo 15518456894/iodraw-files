@@ -195,11 +195,10 @@
         <mxCell id="3WRwizKX004HXY0em1fv-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="376.88" y="-282.62" width="40" height="385.75" as="geometry" />
         </mxCell>
-        <mxCell id="3WRwizKX004HXY0em1fv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=190;exitPerimeter=0;entryX=0.614;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-23" target="3WRwizKX004HXY0em1fv-12">
+        <mxCell id="3WRwizKX004HXY0em1fv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.757;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.614;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="3WRwizKX004HXY0em1fv-23" target="3WRwizKX004HXY0em1fv-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="-140" />
-              <mxPoint x="290" y="-130" />
+              <mxPoint x="305" y="-130" />
               <mxPoint x="-147" y="-130" />
             </Array>
           </mxGeometry>
