@@ -97,13 +97,13 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-57" value="黄河文旅品牌" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="323.92" y="460" width="166.08" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-64" value="" style="group;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-64" value="" style="group;fillColor=none;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="422.46" y="500" width="50" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-62" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.25;direction=west;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-64">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-62" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.25;direction=west;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-64">
           <mxGeometry width="50" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-63" value="举办系列品牌活动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-64">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-63" value="举办系列品牌活动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-64">
           <mxGeometry x="15" y="32.5" width="20" height="85" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-65" value="" style="group" vertex="1" connectable="0" parent="1">
