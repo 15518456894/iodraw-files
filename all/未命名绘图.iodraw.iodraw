@@ -61,10 +61,10 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-37" value="潜力节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
           <mxGeometry x="5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-38" value="功能升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-38" value="空间嵌入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
           <mxGeometry x="10" y="30" width="16" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-39" value="辐射外溢" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-39" value="功能融入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
           <mxGeometry x="49" y="30" width="16" height="70" as="geometry" />
         </mxCell>
       </root>
