@@ -92,7 +92,7 @@
           <mxGeometry x="100" y="319.63" width="99.93" height="40.73" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-53" value="跨区域旅游协同廊道" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="600" y="269.63" width="120" height="40.73" as="geometry" />
+          <mxGeometry x="600" y="264.81" width="120" height="50.37" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-57" value="黄河文旅品牌" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffcccc;strokeColor=#36393d;opacity=70;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="323.92" y="460" width="166.08" height="40" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="610" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-81" value="中观关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="130" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-82" value="宏观区域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="376.96" y="640" width="60" height="30" as="geometry" />
