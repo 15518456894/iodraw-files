@@ -58,9 +58,6 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-39" value="功能融入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
           <mxGeometry x="49" y="30" width="16" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-43" value="核心-边缘廊道" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=13.48;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
-          <mxGeometry x="130.0000000000001" y="-14.370000000000005" width="100" height="44.37" as="geometry" />
-        </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=3.35;dx=18.1;arrowHead=28.06;rotation=45;direction=west;" vertex="1" parent="1">
           <mxGeometry x="340.3" y="324.27" width="110" height="115" as="geometry" />
         </mxCell>
@@ -72,6 +69,9 @@
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-45" value="交通网络设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215.04" y="260" width="19.93" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-43" value="核心-边缘廊道" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=13.48;" vertex="1" parent="1">
+          <mxGeometry x="560.0000000000001" y="110" width="100" height="44.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
