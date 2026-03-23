@@ -68,10 +68,10 @@
           <mxGeometry x="375" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="242.18" width="30" height="145.63" as="geometry" />
+          <mxGeometry x="210" y="260" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-45" value="交通网络设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190.07" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="215.04" y="260" width="19.93" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
