@@ -130,13 +130,13 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-78" value="消费联动机制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="409.99" y="15" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-80" value="中观关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-80" value="中观关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-81" value="中观关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-82" value="宏观区域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-82" value="宏观区域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="376.96" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
