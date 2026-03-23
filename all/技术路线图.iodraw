@@ -7,7 +7,7 @@
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="1476" width="530" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-74" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="zdm2hYUiuHnSGpPF3rg8-74" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="350" width="530" height="250" as="geometry" />
         </mxCell>
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
@@ -19,10 +19,10 @@
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="160" width="140" height="1640" as="geometry" />
         </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-75" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="zdm2hYUiuHnSGpPF3rg8-75" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="530" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="zdm2hYUiuHnSGpPF3rg8-73" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="zdm2hYUiuHnSGpPF3rg8-73" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="620" width="530" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-69" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#0000CC;" parent="1" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="zdm2hYUiuHnSGpPF3rg8-17" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 21px&quot;&gt;多维流网络影响因素分析&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="585.01" y="1259.5" width="239.38" height="150.5" as="geometry" />
         </mxCell>
-        <mxCell id="vpJ6ZjoXR7QREYnuoLRJ-42" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#0000CC;" parent="1" vertex="1">
+        <mxCell id="vpJ6ZjoXR7QREYnuoLRJ-42" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="330" y="827" width="510" height="333" as="geometry" />
         </mxCell>
         <mxCell id="vpJ6ZjoXR7QREYnuoLRJ-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 21px&quot;&gt;研究思路&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
