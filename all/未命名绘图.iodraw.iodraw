@@ -136,8 +136,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-71" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-71" value="智慧文旅平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369.99" y="60" width="50.01" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
