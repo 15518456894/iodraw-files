@@ -19,8 +19,8 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-8" value="潜力节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-12" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="355" width="100" height="80" as="geometry" />
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-12" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
