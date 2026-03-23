@@ -17,7 +17,7 @@
           <mxGeometry x="290" y="380" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-13" value="空间嵌入&lt;div&gt;功能融入&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="430" y="310" width="80" height="100" as="geometry" />
+          <mxGeometry x="420" y="380" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="480" y="150" width="100" height="100" as="geometry" />
@@ -43,7 +43,7 @@
             <mxPoint x="580" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-25" value="核心枢纽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-25" value="潜力节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
