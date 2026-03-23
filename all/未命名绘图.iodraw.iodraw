@@ -85,10 +85,10 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-45" value="交通网络设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215.04" y="260" width="19.93" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-51" value="立体交通体系" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-51" value="立体交通体系" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="100" y="269.63" width="99.93" height="40.73" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-52" value="智慧绿色服务" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-52" value="智慧绿色服务" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="100" y="319.63" width="99.93" height="40.73" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-53" value="跨区域旅游协同廊道" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
