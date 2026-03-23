@@ -94,7 +94,7 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-53" value="跨区域旅游协同廊道" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="600" y="269.63" width="120" height="40.73" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-57" value="黄河文旅品牌" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;opacity=70;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-57" value="黄河文旅品牌" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffcccc;strokeColor=#36393d;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="323.92" y="460" width="166.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-64" value="" style="group;fillColor=none;gradientColor=#b3b3b3;strokeColor=none;" vertex="1" connectable="0" parent="1">
@@ -124,13 +124,13 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-67" value="信息流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="295" y="50" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-68" value="客流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-68" value="客流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="369.99" y="-40" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-71" value="智慧文旅平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="375" y="25" width="20.01" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-72" value="经济流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-72" value="经济流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="50" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-78" value="消费联动机制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
