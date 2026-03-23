@@ -28,7 +28,7 @@
             <mxPoint x="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-83" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-83" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
           <mxGeometry width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-22" value="核心枢纽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
