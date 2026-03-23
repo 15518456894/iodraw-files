@@ -38,7 +38,7 @@
           <mxGeometry x="49" y="30" width="16" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="440" y="269.63" width="280" height="160" as="geometry" />
+          <mxGeometry x="440" y="260" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-35" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
           <mxGeometry width="70" height="110" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="49" y="30" width="16" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
-          <mxGeometry x="120" y="-10" width="30" height="110" as="geometry" />
+          <mxGeometry x="120" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-54" value="一体化运营管理" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-34">
           <mxGeometry x="160" y="59.26999999999998" width="120" height="40.73" as="geometry" />
