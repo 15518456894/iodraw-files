@@ -40,6 +40,9 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-28" value="功能升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="16" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-29" value="辐射外溢" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="290" width="16" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
