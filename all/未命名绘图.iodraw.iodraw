@@ -7,17 +7,17 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="-10" width="680" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="135" width="370" height="370" as="geometry" />
-        </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.25;dx=49;" vertex="1" parent="1">
           <mxGeometry x="100" y="205" width="580" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="135" width="370" height="370" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-1" value="核心枢纽" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-8" value="潜力节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="430" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
