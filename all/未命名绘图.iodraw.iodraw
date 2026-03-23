@@ -11,7 +11,7 @@
           <mxGeometry x="105" y="205" width="580" height="230" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="135" width="370" height="370" as="geometry" />
+          <mxGeometry x="200" y="135" width="370" height="370" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-12" value="功能升级&lt;div&gt;辐射外溢&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="290" y="380" width="80" height="100" as="geometry" />
@@ -32,10 +32,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-22" value="核心枢纽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="295" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-25" value="潜力节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
