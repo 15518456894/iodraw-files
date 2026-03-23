@@ -94,7 +94,7 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-53" value="跨区域旅游协同廊道" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="600" y="269.63" width="120" height="40.73" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-57" value="黄河文旅品牌" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-57" value="黄河文旅品牌" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="323.92" y="460" width="166.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-64" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -118,7 +118,7 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="327.53000000000003" y="-14.93" width="144.93" height="144.93" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-66" value="多维要素耦合机制" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-66" value="多维要素耦合机制" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="318.35" y="130" width="164.44" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-67" value="信息流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
