@@ -91,9 +91,6 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-57" value="黄河文旅品牌" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="298.45000000000005" y="480" width="203.09" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-58" value="" style="shape=collate;whiteSpace=wrap;html=1;direction=east;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="358.75" y="483.75" width="80" height="202.5" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
