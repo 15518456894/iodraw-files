@@ -82,8 +82,8 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-49" value="智慧绿色服务" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.125;" vertex="1" parent="1">
           <mxGeometry x="120" y="324.27" width="80" height="35.14" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-51" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="270" width="120" height="100" as="geometry" />
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-51" value="" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;" vertex="1" parent="1">
+          <mxGeometry x="90" y="439.27" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
