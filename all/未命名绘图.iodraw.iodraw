@@ -115,14 +115,14 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-67" value="信息流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="295" y="50" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="327.53000000000003" y="-14.93" width="144.93" height="144.93" as="geometry" />
+        </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-68" value="客流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="369.99" y="-40" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-71" value="智慧文旅平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="369.99" y="60" width="50.01" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="327.53000000000003" y="-14.93" width="144.93" height="144.93" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-72" value="经济流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="450.3" y="50" width="60" height="60" as="geometry" />
