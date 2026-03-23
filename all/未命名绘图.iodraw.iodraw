@@ -37,8 +37,8 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-25" value="潜力节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-28" value="功能升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="285" width="16" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
