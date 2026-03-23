@@ -22,6 +22,9 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-12" value="功能升级&lt;div&gt;辐射外溢&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="290" y="310" width="80" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-13" value="功能升级&lt;div&gt;辐射外溢&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="80" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
