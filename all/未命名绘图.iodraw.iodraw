@@ -128,13 +128,13 @@
           <mxGeometry x="369.99" y="-40" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-71" value="智慧文旅平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="260" y="22.5" width="20" height="117.5" as="geometry" />
+          <mxGeometry x="370.57" y="24.37" width="60" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-72" value="经济流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="42.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-78" value="消费联动机制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=15;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="517.98" y="24.37" width="52.02" height="45.63" as="geometry" />
+          <mxGeometry x="373.99" y="70" width="56.01" height="45.63" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-80" value="中观关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontSize=15;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="610" y="230" width="80" height="30" as="geometry" />
