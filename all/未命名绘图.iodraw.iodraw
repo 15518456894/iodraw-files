@@ -28,6 +28,9 @@
             <mxPoint x="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-83" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
+          <mxGeometry x="-20" y="-10" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-22" value="核心枢纽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
           <mxGeometry x="5" width="60" height="30" as="geometry" />
         </mxCell>
@@ -36,9 +39,6 @@
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-29" value="辐射外溢" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
           <mxGeometry x="49" y="30" width="16" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-83" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
-          <mxGeometry x="-20" y="-10" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-34" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="440" y="260" width="280" height="160" as="geometry" />
