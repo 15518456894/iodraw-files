@@ -11,7 +11,7 @@
           <mxGeometry x="35" y="-50" width="730" height="730" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="267.53999999999996" y="177.53" width="274.93" height="274.93" as="geometry" />
+          <mxGeometry x="263.09999999999997" y="177.53" width="274.93" height="274.93" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=3.35;dx=18.1;arrowHead=28.06;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="350.41" y="189.72" width="113" height="114.65" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="15" y="22.5" width="20" height="85" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-66" value="多维要素耦合机制" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="99.99999999999999" width="158.87" height="50" as="geometry" />
+          <mxGeometry x="318.35" y="130" width="164.44" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-67" value="信息流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="295" y="60" width="60" height="60" as="geometry" />
