@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.25;dx=49;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="580" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="74" y="40" width="680" height="680" as="geometry" />
+          <mxGeometry x="66.91" width="680" height="680" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="470" width="370" height="370" as="geometry" />
@@ -57,9 +60,6 @@
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=3.35;dx=18.1;arrowHead=28.06;rotation=45;direction=west;" vertex="1" parent="1">
           <mxGeometry x="340.3" y="324.27" width="110" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.25;dx=49;" vertex="1" parent="1">
-          <mxGeometry x="110" y="180" width="580" height="230" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-41" value="微观节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="300" width="60" height="30" as="geometry" />
