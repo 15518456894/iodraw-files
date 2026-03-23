@@ -28,11 +28,14 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="290" y="260" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.513;exitY=0.374;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rcz9lK6mbBdsDevQ6sLg-20">
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.513;exitY=0.374;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rcz9lK6mbBdsDevQ6sLg-20" target="rcz9lK6mbBdsDevQ6sLg-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
             <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
