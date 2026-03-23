@@ -76,14 +76,11 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-45" value="交通网络设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215.04" y="260" width="19.93" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-48" value="立体交通体系" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.125;" vertex="1" parent="1">
-          <mxGeometry x="120" y="269.23" width="80" height="35.14" as="geometry" />
-        </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-49" value="智慧绿色服务" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.125;" vertex="1" parent="1">
-          <mxGeometry x="120" y="324.27" width="80" height="35.14" as="geometry" />
-        </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-51" value="立体交通体系" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;" vertex="1" parent="1">
           <mxGeometry x="130.07" y="430" width="120" height="40.73" as="geometry" />
+        </mxCell>
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-52" value="智慧绿色服务" style="shape=tape;whiteSpace=wrap;html=1;size=0.21460000000000037;" vertex="1" parent="1">
+          <mxGeometry x="130.07" y="480" width="120" height="40.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
