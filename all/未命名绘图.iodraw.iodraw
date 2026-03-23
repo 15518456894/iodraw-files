@@ -31,8 +31,8 @@
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-83" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;fontSize=15;fontFamily=宋体;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
           <mxGeometry width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rcz9lK6mbBdsDevQ6sLg-22" value="&lt;b&gt;核心枢纽&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=宋体;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
-          <mxGeometry x="5" width="75" height="30" as="geometry" />
+        <mxCell id="rcz9lK6mbBdsDevQ6sLg-22" value="核心枢纽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=宋体;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
+          <mxGeometry x="5" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rcz9lK6mbBdsDevQ6sLg-28" value="功能升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=宋体;" vertex="1" parent="rcz9lK6mbBdsDevQ6sLg-32">
           <mxGeometry x="10" y="30" width="16" height="70" as="geometry" />
