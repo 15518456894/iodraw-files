@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i12khQDjIwOoLCZHnWGA-5" value="物质基础设施网络" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="170" width="130" height="75.2" as="geometry" />
+          <mxGeometry x="-60" y="180" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i12khQDjIwOoLCZHnWGA-6" value="物质要素流动层" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-60" y="245.2" width="130" height="70" as="geometry" />
